@@ -1,2 +1,2 @@
 # tilo
-I'am man
+Algoritma dan pemograman dasar
